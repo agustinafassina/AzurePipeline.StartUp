@@ -1,5 +1,5 @@
 # Automation pipeline:
-Schema reference for Azure Pipelines that turn instances on and off.
+Schema reference for Azure Pipelines that start up instances.
 __________________________________________________________________
 
 ## For the use el schema:
