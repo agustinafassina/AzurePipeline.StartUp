@@ -3,6 +3,9 @@ name: af_$(SourceBranchName)_$(Build.SourceVersion)
 pool:
   vmImage: 'ubuntu-22.04'
 
+variables:
+  - group: dev
+
 steps:
 - script: |
     aws ec2 start-instances --instance-ids $(AWS_INSTANCE_ID)
