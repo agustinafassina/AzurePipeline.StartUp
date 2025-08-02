@@ -1,5 +1,5 @@
 # Automation pipeline:
-Schema reference for Azure Pipelines that start up instances.
+This repository contains an Azure Pipeline that starts an instance. It includes commands to launch an EC2 instance and to check its status.
 __________________________________________________________________
 
 ## For the use el schema:
@@ -13,3 +13,4 @@ __________________________________________________________________
 * Aws account:
 * * EC2
 * * RDS
+
