@@ -1,6 +1,5 @@
 # Automation pipeline:
 This repository features an Azure Pipeline designed to automate the process of starting and managing an EC2 instance in AWS. It includes commands to launch a new EC2 instance, monitor its status, and manage its lifecycle efficiently. This setup helps streamline infrastructure management, reduce manual effort, and ensure that instances are started and checked reliably within your deployment workflows.
-__________________________________________________________________
 
 ## For the use el schema:
 * Azure devOps account.
@@ -13,5 +12,6 @@ __________________________________________________________________
 * Aws account:
 * * EC2
 * * RDS
+
 
 
